@@ -6,7 +6,7 @@ This project demonstrates how to:
 
 ---
 
-## 🔐 Step 1: Environment Setup
+## 🔐 : Environment Setup
 
 Create a `.env` file in your root directory with the following:
 
